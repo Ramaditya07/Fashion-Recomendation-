@@ -97,9 +97,4 @@ styleai/
 - ✅ Mac (just open index.html)
 - ✅ Linux (just open index.html)
 - ✅ Any modern web browser
-
-## 🎉 That's It!
-
-Super simple. No complexity. Just fashion recommendations!
-
-**Double-click START-APP.bat and enjoy!** 👔✨
+  
