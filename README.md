@@ -72,18 +72,6 @@ styleai/
 - **Color Palette** - Colors that complement your skin tone
 - **Necklines & Accessories** - What flatters your face shape
 
-## 🔧 No Installation Needed!
-
-This is a simple HTML/CSS/JavaScript app. No complicated setup:
-- ❌ No Java required
-- ❌ No Maven required
-- ❌ No API keys needed
-- ❌ No internet required (works offline!)
-- ✅ Just double-click and go!
-
-## 📖 Need More Help?
-
-Check **HOW-TO-USE.md** for detailed instructions.
 
 ## 🎯 How It Works
 
